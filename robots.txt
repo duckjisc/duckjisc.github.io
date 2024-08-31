@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://duckjisc.github.io/sitemap/sitemap.txt
